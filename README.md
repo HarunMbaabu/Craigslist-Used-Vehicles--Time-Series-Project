@@ -1,0 +1,46 @@
+## **Craigslist's Used Vehicles Solution** 
+
+### Question 1). Time-Series Model. 
+
+**My Approach:**
+
+- First, I handled the missing values in the dataset. I resolved this by filling in the missing values with the mode of the respective column.
+
+- Then, I converted the data types of the columns in the dataset to the appropriate data types, I converted the posting_date column should be converted to a datetime data type.
+
+- I then used the posting_date column to create a datetime index for the dataset, this allowed me to easily analyze the temporal patterns of the data.
+
+- Once I had clean data I explored it using different visualizations and statistical analysis approached. I used this step to analyze temporal patterns, seasonal trends, and demand-supply dynamics by region and vehicle type.And finally with a good understanding of the data, I created the time-series charts. 
+
+**Solutions:**
+- [Pandas Explore the Data and Build the Model.ipynb Python notebook]()
+
+- [PySpark Explore the Data and Build the Model.ipynb Python notebook]()
+
+Note: There are two major reasons why I used both Pandas and PySpark, first pyspark processes large data better than Pandas and since craigslist_vehicles.csv is 1.4GB, it is quite huge for pandas.
+
+Notebook Viewer for Pandas Scripts: https://nbviewer.org/github/HarunMbaabu/Craigslist-Used-Vehicles-Solution/blob/main/Pandas%20Explore%20the%20Data%20and%20Build%20the%20Model.ipynb
+
+
+The Second reason is it is impossible to preview the notebook on GitHub since the Panda's scripts file and visuals it too huge. To solve this I have used Notebook Viewer to show the notebook. 
+
+### Question 2). Data Enrichment Recommendations.
+ [Data Enrichment Recommendations Google Docs.](https://docs.google.com/document/d/1xqjsStpwnFAlP7HwBJKqPG5Oyb8vPwDlgBU7rBXGe3k/edit?usp=sharing)
+
+### Question 3). Data Warehouse Structure.
+[Data Warehouse Structure Google Docs.](https://docs.google.com/document/d/1KQONTgf0KDme2s-GxvPmv0IfhoZR9Uf1XWKz6ZswBu4/edit?usp=sharing)
+
+
+**PS:** 
+- If to run this repository locally: 
+
+(i).Check the Python packages and modules i used in the requirements.txt file. You can install these packages in your local virtual environment using 
+
+```code 
+pip install -r requirements.txt
+```  
+
+(II). Make sure you configurethe dataset path, for this code i saved the dataset in ```data``` folder
+
+- You have commenter rights for the Google Docs, feel free to leave any feedback, or suggestions.  
+
