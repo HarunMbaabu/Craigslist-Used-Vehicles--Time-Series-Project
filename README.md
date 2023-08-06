@@ -12,14 +12,18 @@
 
 - Once I had clean data I explored it using different visualizations and statistical analysis approached. I used this step to analyze temporal patterns, seasonal trends, and demand-supply dynamics by region and vehicle type.And finally with a good understanding of the data, I created the time-series charts. 
 
-Solution explained: https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question1.md
+Pandas Solution explained: https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question1.md
 
 **Solutions on Google Colabs:**
-Pandas Explore the Data and Build the Model.ipynb on Google Colabs. 
-	> https://colab.research.google.com/github/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Pandas%20Explore%20the%20Data%20and%20Build%20the%20Model%20-%20Complete.ipynb
+- Pandas Explore the Data and Build the Model.ipynb on Google Colabs. 
 
-PySpark Explore the Data and Build the Model.ipynb on Google Colabs.
-	> Place Holder fppr the link
+	> https://colab.research.google.com/github/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Pandas%20Explore%20the%20Data%20and%20Build%20the%20Model%20-%20Complete.ipynb 
+ 
+
+- PySpark Explore the Data and Build the Model.ipynb Solution.
+
+	> https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/PySpark%20Explore%20the%20Data%20and%20%20Build%20the%20Model%20-%20Complete.ipynb
+
 
 Note: There are two major reasons why I used both Pandas and PySpark, first pyspark processes large data better than Pandas and since craigslist_vehicles.csv is 1.4GB, it is quite huge for pandas.
 
