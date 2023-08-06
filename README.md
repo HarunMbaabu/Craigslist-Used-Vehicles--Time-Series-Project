@@ -44,7 +44,7 @@ The Second reason is it is impossible to preview the notebook on GitHub since th
 ![Data Warehouse Structure Image](https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Image/Screenshot%20from%202023-08-05%2021-08-18.png)
 
 **PS:** 
-To run this repository locally: 
+To run this repository locally use conda environment or follow the steps below: 
 
 (i).Check the Python packages and modules i used in the requirements.txt file. You can install these packages in your local virtual environment using 
 
