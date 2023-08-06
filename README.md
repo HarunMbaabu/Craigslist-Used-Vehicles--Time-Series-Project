@@ -31,14 +31,14 @@ The Second reason is it is impossible to preview the notebook on GitHub since th
  	> https://docs.google.com/document/d/1xqjsStpwnFAlP7HwBJKqPG5Oyb8vPwDlgBU7rBXGe3k/edit?usp=sharing 
 
 - Data Enrichment Recommendations on GitHub.
-	> https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Data%20Enrichment%20Recommendations_%20Identify%20a%20few%20areas%20of%20additional%20data%20you%20would%20need%20to%20drive%20more%20valuable%20analyses%2C%20including%20why%20this%20data%20is%20essential%20and%20the%20types%20of%20analyses%20it%20would%20enable..pdf
+	> https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question%202%20and%203%20Docs/Data%20Enrichment%20Recommendations.pdf
 
 ### Question 3). Data Warehouse Structure.
 - Data Warehouse Structure Google Docs.
  	> https://docs.google.com/document/d/1KQONTgf0KDme2s-GxvPmv0IfhoZR9Uf1XWKz6ZswBu4/edit?usp=sharing 
 
 - Data Warehouse Structure on GitHub: 
-	> https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Data%20Warehouse%20Structure.pdf 
+	> https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question%202%20and%203%20Docs/Data%20Warehouse%20Structure.pdf
 
 
 ![Data Warehouse Structure Image](https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Image/Screenshot%20from%202023-08-05%2021-08-18.png)
