@@ -4,7 +4,7 @@
 
 **My Approach:**
 
-- First, I handled the missing values in the dataset. I resolved this by filling in the missing values with the mode of the respective column.
+- First, I handled the missing values in the dataset. I resolved this by filling in the missing values with the median and mode of numerical and categorical data on the respective columns.
 
 - Then, I converted the data types of the columns in the dataset to the appropriate data types, I converted the posting_date column should be converted to a datetime data type.
 
