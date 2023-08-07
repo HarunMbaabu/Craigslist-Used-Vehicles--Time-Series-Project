@@ -111,7 +111,7 @@ fig.update_layout(
 fig.show()
 ```
 
-![Data Warehouse Structure Image](https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Image/step2.2.png)
+![Data Warehouse Structure Image](https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Image/simple_trash.png)
 
 
 ```python
