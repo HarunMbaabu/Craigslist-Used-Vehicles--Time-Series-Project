@@ -1,5 +1,7 @@
 ## **Craigslist's Used Vehicles Solution** 
 
+> **NOTE: I have not included the data folder, so configure the data to match the path given in the notebooks. The complate. I have added the uncompleted parts as issues in the repository**
+
 ### Question 1). Time-Series Model. 
 
 **My Approach:**
