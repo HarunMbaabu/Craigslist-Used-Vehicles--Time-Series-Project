@@ -1,6 +1,6 @@
 ## **Craigslist's Used Vehicles Solution** 
 
-#### **NOTE:
+#### **NOTE:**
 
 > 1). Since this repository is private, i can't use nbviewer to share the pandas working so i decided to use Kaggle, i uploaded data, as private date and worked on private notebook which i have added reviewer as a collaborator. 
 
