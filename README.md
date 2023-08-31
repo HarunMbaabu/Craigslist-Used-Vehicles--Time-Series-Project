@@ -2,9 +2,11 @@
 
 #### **NOTE:**
 
-> 1). Since this repository is private, i can't use nbviewer to share the pandas working so i decided to use Kaggle, i uploaded data, as private date and worked on private notebook which i have to add the reviewer as a collaborator. 
+> 1). Since this repository is private, i can't use nbviewer to share the pandas working so i decided to use Kaggle, i uploaded data, as private date and worked on private notebook which i have to add the reviewer as a collaborator.
+ Link: https://www.kaggle.com/code/mbaabuharun/pandas-explore-the-data-and-build-the-model-comp
 
 >  2). I have not included the data folder, so configure the data to match the path given in the notebooks. The complate. I have added the uncompleted parts as issues in the repository**
+
 
 ### Question 1). Time-Series Model. 
 
