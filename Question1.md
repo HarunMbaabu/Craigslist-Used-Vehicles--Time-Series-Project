@@ -178,3 +178,7 @@ fig_decompose.show()
 ```
 
 ![Data Warehouse Structure Image](https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Image/step2.4.png)
+
+**Explanation:**
+- In the plot displayed above, the trend and seasonality are not discernible; only the residual component is visible. This is primarily due to the limited time period over which the data was collected, making it challenging to capture and observe the underlying seasonal and trend patterns.
+
