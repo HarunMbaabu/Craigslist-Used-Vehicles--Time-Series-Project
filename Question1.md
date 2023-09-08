@@ -1,7 +1,5 @@
 # Question 1: Time-Series Model. 
 
-> **I have not included the data folder, so configure the data to match the path given in the notebooks**
-
 Transform the provided record-level dataset into a time-series model. The main objective of this model is to gain insights into the temporal patterns of vehicle listings, with a particular emphasis on conducting an inventory analysis over time, segmented by regions. For instance, the model should facilitate the creation of a time-series chart that represents the number of available vehicles over time, filtered by specific criteria such as region, vehicle type, etc. This will aid in understanding regional demand-supply dynamics, seasonal trends, and other relevant insights. 
 
 
